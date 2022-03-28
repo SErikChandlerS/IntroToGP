@@ -1,2 +1,2 @@
-# Introduction to game programming project
- 
+# Introduction to Game Programming
+
