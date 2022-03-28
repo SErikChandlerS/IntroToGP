@@ -1,2 +1,2 @@
-# ITGP_2022
- Introduction to game programming project
+# Introduction to game programming project
+ 
